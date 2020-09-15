@@ -1,5 +1,8 @@
-.csv
-.xlsx
+*.bin
+*.h5
+
+*.csv
+*.xlsx
 
 # Logs
 logs
